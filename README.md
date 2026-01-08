@@ -1,5 +1,5 @@
-## Hi, I'm Prashant K Karn 👋
-# 💫 About Me:
+## 💫 Hi, I'm Prashant K Karn 👋
+
 3rd Year Computer Science Student  <br>DSA • Web Development • Problem Solving  <br>Continuously learning and building real-world projects 🚀<br>
 
 
