@@ -1,34 +1,323 @@
-## 💫 Hi, I'm Prashant K Karn 👋
+<div align="center">
 
-3rd Year Computer Science Student  <br>DSA • Web Development • Problem Solving  <br>Continuously learning and building real-world projects 🚀<br>
+<!--  ═══════════════════════════════════════════════════════════════
+      HEADER — TYPING EFFECT
+  ════════════════════════════════════════════════════════════════ -->
 
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=3000&pause=1500&color=888888&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%E2%80%A2+KIIT+University+%E2%80%A2+2027;Full+Stack+Developer+%E2%80%A2+AI%2FML+Enthusiast;Backend+%E2%80%A2+System+Design+%E2%80%A2+Problem+Solver" alt="" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/791613044916617226) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prashantk1305/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prashant-karn-682020286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantk.karn05@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prash1323&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prash1323&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prash1323&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Prashant Karn
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=15&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Role" />
+</p>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prash1323&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**prash1323/prash1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<!--  ═══════════════════════════════════════════════════════════════
+      ABOUT
+  ════════════════════════════════════════════════════════════════ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="52%" valign="top">
+
+### &nbsp;`whoami`
+
+```yaml
+name         : Prashant Kumar Karn
+university   : KIIT University, Bhubaneswar
+degree       : B.Tech — Computer Science & Engineering
+batch        : 2023 – 2027
+cgpa         : 8.63 / 10
+```
+
+```yaml
+role         : Full Stack Developer
+focus        : Backend · System Design · AI/ML
+interests    :
+  - Distributed Systems & Scalable Architectures
+  - Applied Machine Learning & NLP
+  - Developer Tooling & Automation
+```
+
+</td>
+<td width="4%"></td>
+<td width="44%" valign="top">
+
+### &nbsp;`currently`
+
+```yaml
+building     :
+  - EventSphere      → Event management platform
+  - Krishi Saathi    → AI-driven agriculture system
+  - SentimentLens    → NLP sentiment framework
+
+studying     :
+  - Data Structures & Algorithms (LeetCode)
+  - System Design (HLD + LLD)
+  - Machine Learning & Deep Learning
+
+
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════════════════════════════════════════════════════════
+      TECH STACK
+  ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Tech Stack
+
+<br/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js&theme=dark" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+
+<br/><br/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
+
+<br/><br/>
+
+**Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════════════════════════════════════════════════════════
+      PROJECTS
+  ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Projects
+
+</div>
+
+<br/>
+
+<table width="100%" border="0">
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+**EventSphere**
+
+```
+End-to-End Event Management Platform
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Stack   → Node.js · MongoDB · JWT
+Focus   → Auth · RBAC · REST APIs
+Status  → Active Development
+```
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+**Krishi Saathi**
+
+```
+Smart Rural Agriculture System
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Stack   → React · Node · ML · CV
+Focus   → AI Crop Advisory · APIs
+Status  → Active Development
+```
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+**SentimentLens**
+
+```
+Multi-Layer NLP Sentiment Framework
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Stack   → Python · BERT · spaCy
+Focus   → Aspect · Emotion · NLU
+Status  → Phase 1 — In Progress
+```
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════════════════════════════════════════════════════════
+      CODING PROFILES
+  ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Coding Profiles
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-prash1323-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=222222)](https://github.com/prash1323)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-prashant__karn-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=111111&color=222222)](https://leetcode.com/u/prashant_karn/)
+&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-brood__sheep__15-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=111111&color=222222)](https://www.codechef.com/users/brood_sheep_15)
+
+<br/>
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-prashantk__karn05-00EA64?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=111111&color=222222)](https://www.hackerrank.com/profile/prashantk_karn05)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prashant--karn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111&color=222222)](https://www.linkedin.com/in/prashant-karn-682020286/)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════════════════════════════════════════════════════════
+      GITHUB STATS
+  ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### GitHub Stats
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prash1323&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prash1323&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prash1323&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=7" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════════════════════════════════════════════════════════
+      ACTIVITY GRAPH
+  ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prash1323&bg_color=0D1117&color=888888&line=ffffff&point=ffffff&area_color=111111&area=true&hide_border=true" width="92%" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════════════════════════════════════════════════════════
+      PHILOSOPHY
+  ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```
+  B U I L D  ·  B R E A K  ·  L E A R N  ·  R E P E A T
+```
+
+<br/>
+
+*The best code I've written is the code I rewrote.*
+
+<br/>
+
+</div>
+
+---
+
+<br/>
+
+<!--  ═══════════════════════════════════════════════════════════════
+      CONTACT
+  ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Let's Connect
+
+<br/>
+
+<a href="mailto:prashantk.karn05@gmail.com">
+  <img src="https://img.shields.io/badge/prashantk.karn05%40gmail.com-Send%20a%20mail-ffffff?style=flat&logo=gmail&logoColor=EA4335&labelColor=111111&color=1a1a1a" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prashant-karn-682020286/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=111111&color=1a1a1a" />
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-ffffff?style=flat&logo=vercel&logoColor=white&labelColor=111111&color=1a1a1a" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=prash1323&style=flat&color=111111&label=profile+views&abbreviated=true" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <sub>Designed with intention · Built for clarity · Updated continuously</sub>
+</div>
