@@ -231,12 +231,13 @@ Status  → Phase 1 — In Progress
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prash1323&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prash1323&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prash1323&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=prash1323&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prash1323&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=7" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prash1323&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -244,7 +245,6 @@ Status  → Phase 1 — In Progress
 
 ---
 
-<br/>
 
 <!--  ═══════════════════════════════════════════════════════════════
       ACTIVITY GRAPH
